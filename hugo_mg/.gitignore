@@ -1,0 +1,13 @@
+.hugo_build.lock
+resources/
+public/
+__pycache__/
+.pytest_cache/
+Include/
+Lib/
+Scripts/
+
+pyvenv.cfg
+tests/ux/*.png
+debug.log
+chromedriver.exe
